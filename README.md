@@ -4,7 +4,8 @@
 
 
 [![Github](https://img.shields.io/github/followers/xxortayaxx?style=social)][youtube]
-[![Discord](https://img.shields.io/website?label=Venosa%20Studio&style=for-the-badge&url=https://venosastudio.com)](https://venosastudio.com)
+
+
 
 ## I'm Self taught Developer and computer programming student.
 
