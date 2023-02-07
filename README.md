@@ -5,7 +5,7 @@
 
 
 
-[![Github](https://img.shields.io/github/followers/xxortayaxx?label=Github%20-%20Followers&style=for-the-badge)][youtube]
+[![Github](https://img.shields.io/github/followers/AhmetEfeAkan?label=Github%20-%20Followers&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/discord/1072479823341035560?label=DISCORD&style=for-the-badge)](https://discord.gg/BnQeXRcGVY)
 
 
@@ -50,6 +50,6 @@
 :zap: GitHub Stats
 
 <br />
-<img width="50%" align="left" alt="Ahmet Efe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xxortayaxx&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&layout=compact" />
+<img width="50%" align="left" alt="Ahmet Efe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AhmetEfeAkan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&layout=compact" />
 <br />
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxortayaxx&theme=dark&hide_border=true&layout=compact">
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetEfeAkan&theme=dark&hide_border=true&layout=compact">
