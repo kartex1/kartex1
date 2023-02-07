@@ -16,14 +16,11 @@
 
 ### Connect with me:
 
-//[![website](./img/globe-light.svg)](https://venosastudio.com#gh-light-mode-only)
-//[![website](./img/globe-dark.svg)](https://venosastudio.com#gh-dark-mode-only)
-//&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UClApESdcFGHJiOx5-lx-B-A#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UClApESdcFGHJiOx5-lx-B-A#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://venosastudio.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://venosastudio.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/aktila-cengiz/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aktila-cengiz/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmet-efe-akan-b133b1265/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmet-efe-akan-b133b1265/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/aktilagoshibaru/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/aktilagoshibaru/#gh-dark-mode-only)
