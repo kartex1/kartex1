@@ -16,9 +16,9 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://venosastudio.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://venosastudio.com#gh-dark-mode-only)
-&nbsp;&nbsp;
+//[![website](./img/globe-light.svg)](https://venosastudio.com#gh-light-mode-only)
+//[![website](./img/globe-dark.svg)](https://venosastudio.com#gh-dark-mode-only)
+//&nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UClApESdcFGHJiOx5-lx-B-A#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UClApESdcFGHJiOx5-lx-B-A#gh-dark-mode-only)
 &nbsp;&nbsp;
