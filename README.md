@@ -25,7 +25,7 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/aktilagoshibaru/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/aktilagoshibaru/#gh-dark-mode-only)
 
-[youtube]: https://www.youtube.com/channel/UClApESdcFGHJiOx5-lx-B-A
+[youtube]: https://github.com/xxortayaxx
 [website]: https://venosastudio.com
 
 ### Languages and Tools:
