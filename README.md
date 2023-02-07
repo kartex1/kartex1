@@ -6,7 +6,7 @@
 
 
 [![Github](https://img.shields.io/github/followers/xxortayaxx?style=social)][youtube]
-
+[![Discord](https://img.shields.io/discord/1072479823341035560?style=for-the-badge)][discord]
 
 
 ## I'm a Self Developer and a computer programming student in High School.
