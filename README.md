@@ -6,8 +6,8 @@
 
 
 [![Github](https://img.shields.io/github/followers/xxortayaxx?style=social)][youtube]
+[![Website](https://img.shields.io/discord/1072479823341035560?style=for-the-badge)](https://discord.gg/BnQeXRcGVY)
 
-[![Discord](https://img.shields.io/discord/1072479823341035560?style=for-the-badge)][discord]
 
 
 ## I'm a Self Developer and a computer programming student in High School.
@@ -25,7 +25,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ahm.t.ms/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ahm.t.ms/#gh-dark-mode-only)
-[discord]: https://discord.gg/BnQeXRcGVY
+
 [youtube]: https://github.com/xxortayaxx
 [website]: https://discord.gg/BnQeXRcGVY
 
