@@ -3,8 +3,8 @@
 ### Hi there 👋, I'm Ahmet Efe, i am from <img src="https://camo.githubusercontent.com/021b3b2e7d8ba6c7160fd66fc854047607ad4bd744ce5c87aa0a163d0dd78160/68747470733a2f2f692e696d6775722e636f6d2f66663534375a542e706e67" alt="drawing" style="width:25px;"/> Turkey!  I am 16 years old and I try to learn new technology but lately i focused on web development technology
 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClApESdcFGHJiOx5-lx-B-A?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=Venosa%20Studio&style=for-the-badge&url=https://venosastudio.com)](https://venosastudio.com)
+[![Github](https://img.shields.io/github/followers/xxortayaxx?style=social)][youtube]
+[![Discord](https://img.shields.io/website?label=Venosa%20Studio&style=for-the-badge&url=https://venosastudio.com)](https://venosastudio.com)
 
 ## I'm Self taught Developer and computer programming student.
 
