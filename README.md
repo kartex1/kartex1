@@ -10,8 +10,8 @@
 
 
 ## I'm a Self Developer and a computer programming student in High School.
-- 🪄   I m currently working on Object Oriented Programming Development!
-- 🪄   I'm learning everything right now
+- ▫   I m currently working on Object Oriented Programming Development!
+- ▫   I'm learning everything right now
 
 
 ### Connect with me:
