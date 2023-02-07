@@ -1,16 +1,18 @@
 # Welcome to my GitHub profile! 
 
-### Hi there 👋, I'm Ahmet Efe, i am from <img src="https://camo.githubusercontent.com/021b3b2e7d8ba6c7160fd66fc854047607ad4bd744ce5c87aa0a163d0dd78160/68747470733a2f2f692e696d6775722e636f6d2f66663534375a542e706e67" alt="drawing" style="width:25px;"/> Turkey!  I am 16 years old and I try to learn new technology but lately i focused on web development technology
+### Hi there 👋, I'm Ahmet Efe, i am from <img src="https://camo.githubusercontent.com/021b3b2e7d8ba6c7160fd66fc854047607ad4bd744ce5c87aa0a163d0dd78160/68747470733a2f2f692e696d6775722e636f6d2f66663534375a542e706e67" alt="drawing" style="width:25px;"/> Turkey!  I am 16 years old and trying to learn new technologies
+
+
 
 
 [![Github](https://img.shields.io/github/followers/xxortayaxx?style=social)][youtube]
 
 
 
-## I'm Self taught Developer and computer programming student.
+## I'm a Self Developer and a computer programming student in High School.
+- 🪄   I m currently working on Object Oriented Programming Development!
+- 🪄   I'm learning everything right now
 
-- 🪄 I'm currently working on a Full Stack Web Development!
-- 🪶 I'm currently learning everything
 
 ### Connect with me:
 
