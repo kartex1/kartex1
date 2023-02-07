@@ -18,8 +18,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://discord.gg/BnQeXRcGVY#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://discord.gg/BnQeXRcGVY#gh-dark-mode-only)
+[![website](https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64.png)](https://discord.gg/BnQeXRcGVY#gh-light-mode-only)
+[![website](https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64.png)](https://discord.gg/BnQeXRcGVY#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmet-efe-akan-b133b1265/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmet-efe-akan-b133b1265/#gh-dark-mode-only)
