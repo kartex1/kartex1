@@ -16,8 +16,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://venosastudio.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://venosastudio.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://discord.gg/BnQeXRcGVY#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://discord.gg/BnQeXRcGVY#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmet-efe-akan-b133b1265/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmet-efe-akan-b133b1265/#gh-dark-mode-only)
@@ -26,7 +26,7 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ahm.t.ms/#gh-dark-mode-only)
 
 [youtube]: https://github.com/xxortayaxx
-[website]: https://venosastudio.com
+[website]: https://discord.gg/BnQeXRcGVY
 
 ### Languages and Tools:
 
