@@ -24,7 +24,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ahm.t.ms/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ahm.t.ms/#gh-dark-mode-only)
-
+[discord]: https://discord.gg/BnQeXRcGVY
 [youtube]: https://github.com/xxortayaxx
 [website]: https://discord.gg/BnQeXRcGVY
 
