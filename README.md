@@ -6,7 +6,7 @@
 
 
 [![Github](https://img.shields.io/github/followers/xxortayaxx?style=social)][youtube]
-[![Website](https://img.shields.io/discord/1072479823341035560?style=for-the-badge)](https://discord.gg/BnQeXRcGVY)
+[![Website](https://img.shields.io/discord/1072479823341035560?label=DISCORD&style=for-the-badge)](https://discord.gg/BnQeXRcGVY)
 
 
 
