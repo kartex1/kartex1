@@ -10,7 +10,6 @@
 
 
 
-
 ## I'm a Self Developer and a computer programming student in High School.
 -    I m currently working on Object Oriented Programming Development!
 -    I'm learning everything right now
@@ -26,7 +25,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ahm.t.ms/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ahm.t.ms/#gh-dark-mode-only)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BnQeXRcGVY)
+
 
 [youtube]: https://github.com/xxortayaxx
 [website]: https://discord.gg/BnQeXRcGVY
