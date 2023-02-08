@@ -51,6 +51,6 @@
 :zap: GitHub Stats
 
 <br />
-<img width="50%" align="left" alt="Ahmet Efe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AhmetEfeAkan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&layout=compact" />
+<img width="40%" align="left" alt="Ahmet Efe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kartex1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&layout=compact" />
 <br />
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetEfeAkan&theme=dark&hide_border=true&layout=compact">
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartex1&theme=dark&hide_border=true&layout=compact">
