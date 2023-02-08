@@ -7,6 +7,7 @@
 
 [![Github](https://img.shields.io/github/followers/AhmetEfeAkan?label=Github%20-%20Followers&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/discord/1072479823341035560?label=DISCORD&style=for-the-badge)](https://discord.gg/BnQeXRcGVY)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BnQeXRcGVY)
 
 
 
